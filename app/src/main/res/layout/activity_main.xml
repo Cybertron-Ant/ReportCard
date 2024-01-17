@@ -167,6 +167,28 @@
         </TableRow> <!-- end Computer Science grade -->
 
 
+        <!-- Art grade -->
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <!-- distribute width evenly (width weight) -->
+            <TextView
+                android:id="@+id/subjectArt"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="Art"
+                android:padding="8dp" />
+
+            <TextView
+                android:id="@+id/gradeArt"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="59%"
+                android:padding="8dp" />
+        </TableRow> <!-- end Art grade -->
+
+
 
     </TableLayout>
 
