@@ -233,6 +233,28 @@
         </TableRow> <!-- end Agriculture grade -->
 
 
+        <!-- Biology grade -->
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <!-- distribute width evenly (width weight) -->
+            <TextView
+                android:id="@+id/subjectBiology"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="Biology"
+                android:padding="8dp" />
+
+            <TextView
+                android:id="@+id/gradeBiology"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="85%"
+                android:padding="8dp" />
+        </TableRow> <!-- end Biology grade -->
+
+
 
     </TableLayout>
 
