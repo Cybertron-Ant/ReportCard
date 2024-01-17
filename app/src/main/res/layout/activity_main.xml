@@ -189,6 +189,28 @@
         </TableRow> <!-- end Art grade -->
 
 
+        <!-- Geography grade -->
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <!-- distribute width evenly (width weight) -->
+            <TextView
+                android:id="@+id/subjectGeography"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="Geography"
+                android:padding="8dp" />
+
+            <TextView
+                android:id="@+id/gradeGeography"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="71"
+                android:padding="8dp" />
+        </TableRow> <!-- end Geography grade -->
+
+
 
     </TableLayout>
 
