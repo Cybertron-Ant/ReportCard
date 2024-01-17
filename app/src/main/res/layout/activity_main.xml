@@ -145,6 +145,28 @@
         </TableRow> <!-- end English Literature grade -->
 
 
+        <!-- Computer Science grade -->
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <!-- distribute width evenly (width weight) -->
+            <TextView
+                android:id="@+id/subjectComputerScience"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="Computer Science"
+                android:padding="8dp" />
+
+            <TextView
+                android:id="@+id/gradeComputerScience"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="84%"
+                android:padding="8dp" />
+        </TableRow> <!-- end Computer Science grade -->
+
+
 
     </TableLayout>
 
