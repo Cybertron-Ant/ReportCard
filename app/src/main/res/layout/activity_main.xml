@@ -101,6 +101,28 @@
         </TableRow> <!-- end Mathematics grade -->
 
 
+        <!-- Economics grade -->
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <!-- distribute width evenly (width weight) -->
+            <TextView
+                android:id="@+id/subjectEconomics"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="Economics"
+                android:padding="8dp" />
+
+            <TextView
+                android:id="@+id/gradeEconomics"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="47%"
+                android:padding="8dp" />
+        </TableRow> <!-- end Economics grade -->
+
+
 
     </TableLayout>
 
