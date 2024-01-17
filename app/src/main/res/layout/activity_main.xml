@@ -21,6 +21,7 @@
                 android:layout_weight="1"
                 android:text="Subjects"
                 android:textStyle="bold"
+                android:background="@drawable/cellborder"
                 android:padding="8dp" />
 
             <TextView
@@ -28,6 +29,7 @@
                 android:layout_weight="1"
                 android:text="Grades"
                 android:textStyle="bold"
+                android:background="@drawable/cellborder"
                 android:padding="8dp" />
 
 
@@ -45,6 +47,7 @@
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:text="Physics"
+                android:background="@drawable/cellborder"
                 android:padding="8dp" />
 
 
@@ -53,6 +56,7 @@
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:text="100%"
+                android:background="@drawable/cellborder"
                 android:padding="8dp" />
         </TableRow> <!-- end Physics grade -->
 
@@ -68,6 +72,7 @@
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:text="Chemistry"
+                android:background="@drawable/cellborder"
                 android:padding="8dp" />
 
             <TextView
@@ -75,6 +80,7 @@
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:text="100%"
+                android:background="@drawable/cellborder"
                 android:padding="8dp" />
         </TableRow> <!-- end Chemistry grade -->
 
@@ -90,6 +96,7 @@
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:text="Mathematics"
+                android:background="@drawable/cellborder"
                 android:padding="8dp" />
 
             <TextView
@@ -97,6 +104,7 @@
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:text="61%"
+                android:background="@drawable/cellborder"
                 android:padding="8dp" />
         </TableRow> <!-- end Mathematics grade -->
 
@@ -112,6 +120,7 @@
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:text="Economics"
+                android:background="@drawable/cellborder"
                 android:padding="8dp" />
 
             <TextView
@@ -119,6 +128,7 @@
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:text="47%"
+                android:background="@drawable/cellborder"
                 android:padding="8dp" />
         </TableRow> <!-- end Economics grade -->
 
@@ -134,6 +144,7 @@
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:text="English Literature"
+                android:background="@drawable/cellborder"
                 android:padding="8dp" />
 
             <TextView
@@ -141,6 +152,7 @@
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:text="21%"
+                android:background="@drawable/cellborder"
                 android:padding="8dp" />
         </TableRow> <!-- end English Literature grade -->
 
@@ -156,6 +168,7 @@
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:text="Computer Science"
+                android:background="@drawable/cellborder"
                 android:padding="8dp" />
 
             <TextView
@@ -163,6 +176,7 @@
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:text="84%"
+                android:background="@drawable/cellborder"
                 android:padding="8dp" />
         </TableRow> <!-- end Computer Science grade -->
 
@@ -178,6 +192,7 @@
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:text="Art"
+                android:background="@drawable/cellborder"
                 android:padding="8dp" />
 
             <TextView
@@ -185,6 +200,7 @@
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:text="59%"
+                android:background="@drawable/cellborder"
                 android:padding="8dp" />
         </TableRow> <!-- end Art grade -->
 
@@ -200,6 +216,7 @@
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:text="Geography"
+                android:background="@drawable/cellborder"
                 android:padding="8dp" />
 
             <TextView
@@ -207,6 +224,7 @@
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:text="71"
+                android:background="@drawable/cellborder"
                 android:padding="8dp" />
         </TableRow> <!-- end Geography grade -->
 
@@ -222,6 +240,7 @@
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:text="Agriculture"
+                android:background="@drawable/cellborder"
                 android:padding="8dp" />
 
             <TextView
@@ -229,6 +248,7 @@
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:text="76%"
+                android:background="@drawable/cellborder"
                 android:padding="8dp" />
         </TableRow> <!-- end Agriculture grade -->
 
@@ -244,6 +264,7 @@
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:text="Biology"
+                android:background="@drawable/cellborder"
                 android:padding="8dp" />
 
             <TextView
@@ -251,6 +272,7 @@
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:text="85%"
+                android:background="@drawable/cellborder"
                 android:padding="8dp" />
         </TableRow> <!-- end Biology grade -->
 
