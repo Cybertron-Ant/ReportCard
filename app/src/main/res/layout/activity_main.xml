@@ -57,6 +57,28 @@
         </TableRow> <!-- end Physics grade -->
 
 
+        <!-- start Chemistry grade -->
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <!-- distribute width evenly (width weight) -->
+            <TextView
+                android:id="@+id/subjectChemistry"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="Chemistry"
+                android:padding="8dp" />
+
+            <TextView
+                android:id="@+id/gradeChemistry"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="100%"
+                android:padding="8dp" />
+        </TableRow> <!-- end Chemistry grade -->
+
+
 
     </TableLayout>
 
